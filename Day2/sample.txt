@@ -1,1 +1,7 @@
 
+# String Formating
+# Adding White Spaces
+# Removing white spaces
+# Numbers, Float
+# Commenting the code
+# Zen of Python
