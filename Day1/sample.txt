@@ -1,1 +1,8 @@
 
+#Day1 
+
+We Will read below 
+
+1. Print statement
+2. Understanding variable assignment
+3. Data type, String data type and methods
