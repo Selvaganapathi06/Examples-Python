@@ -1,1 +1,6 @@
 
+# Creation of list
+# Replacing element of list
+# Adding elements of list
+# Deleting elements of list
+# Sorting the elements in the list
