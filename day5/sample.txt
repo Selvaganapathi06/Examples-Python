@@ -1,1 +1,4 @@
 
+# For Loop
+# For along with F strings
+# range function
