@@ -1,1 +1,4 @@
-
+# Reverse List
+# Creating an Empty List
+# Addind elememt to an empty list
+# Negative indexing list
